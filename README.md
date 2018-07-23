@@ -1,3 +1,4 @@
 # My New Repo
 Also the code for my awesome app is in this repo!
-Also, IGNW is the coolest :)
+
+Also, Paul is the coolest :)
